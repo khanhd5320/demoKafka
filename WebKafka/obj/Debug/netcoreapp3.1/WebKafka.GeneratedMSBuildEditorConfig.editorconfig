@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = WebKafka
+build_property.ProjectDir = D:\demoKafka\WebKafka\

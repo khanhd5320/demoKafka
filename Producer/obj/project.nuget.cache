@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ToA+QxGbtf4YzC8xlIGkApmXWWv6MDF8EnKfc2k2vkl+AJ8G3oEY4c48KrjBYD7ympvpZgEIjTmKTSiOUoHXuQ==",
+  "dgSpecHash": "X1mzLCQvWeM/ayHBihy2Uj8j1tNj7Ig8Dw2WOZggdhHbG+ES7bfgcHPYzeFcsMY8ywOClxDUZqAR7Vgt4uk7UA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Khanh Pham Quoc\\source\\repos\\KafkaDemo\\Producer\\Producer.csproj",
+  "projectFilePath": "D:\\demoKafka\\Producer\\Producer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Khanh Pham Quoc\\.nuget\\packages\\confluent.kafka\\1.9.2\\confluent.kafka.1.9.2.nupkg.sha512",
     "C:\\Users\\Khanh Pham Quoc\\.nuget\\packages\\librdkafka.redist\\1.9.2\\librdkafka.redist.1.9.2.nupkg.sha512",

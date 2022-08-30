@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "nP4zbQ5LSrZTLnyt5mDaiN2pZ1g1nDAGi19rJZPa0crm0ZadLg6GUg9AGCW1HM0rlJ05vL+8nEvLhKp5qNqxPQ==",
+  "success": true,
+  "projectFilePath": "D:\\demoKafka\\WebKafka\\WebKafka.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Khanh Pham Quoc\\.nuget\\packages\\confluent.kafka\\1.9.2\\confluent.kafka.1.9.2.nupkg.sha512",
+    "C:\\Users\\Khanh Pham Quoc\\.nuget\\packages\\librdkafka.redist\\1.9.2\\librdkafka.redist.1.9.2.nupkg.sha512",
+    "C:\\Users\\Khanh Pham Quoc\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
